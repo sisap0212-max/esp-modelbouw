@@ -1,0 +1,85 @@
+{
+ "nieuwste": "2.8",
+ "versies": [
+  {
+   "versie": "2.8",
+   "datum": "2026-11-07T20:30:15Z",
+   "varianten": {
+    "22": {
+     "bestand": "billboard",
+     "grootte": 1350368
+    },
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1468688
+    },
+    "c3_st7796": {
+     "bestand": "billboard_c3_st7796",
+     "grootte": 1468688
+    },
+    "c3_ili9488": {
+     "bestand": "billboard_c3_ili9488",
+     "grootte": 1468688
+    },
+    "s3": {
+     "bestand": "billboard_s3",
+     "grootte": 1333920
+    },
+    "s3_st7796": {
+     "bestand": "billboard_s3_st7796",
+     "grootte": 1333904
+    },
+    "s3_ili9488": {
+     "bestand": "billboard_s3_ili9488",
+     "grootte": 1333888
+    }
+   }
+  },
+  {
+   "versie": "2.7",
+   "datum": "2026-10-31T12:00:00Z",
+   "varianten": {
+    "22": {
+     "bestand": "billboard",
+     "grootte": 1385968
+    },
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1521600
+    },
+    "s3": {
+     "bestand": "billboard_s3",
+     "grootte": 1373472
+    }
+   }
+  },
+  {
+   "versie": "2.6",
+   "datum": "2026-10-30T12:00:00Z",
+   "varianten": {
+    "22": {
+     "bestand": "billboard",
+     "grootte": 1385920
+    },
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1521584
+    }
+   }
+  },
+  {
+   "versie": "2.3",
+   "datum": "2026-10-27T12:00:00Z",
+   "varianten": {
+    "22": {
+     "bestand": "billboard",
+     "grootte": 1380784
+    },
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1503248
+    }
+   }
+  }
+ ]
+}
