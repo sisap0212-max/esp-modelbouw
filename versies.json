@@ -3,27 +3,27 @@
  "versies": [
   {
    "versie": "2.8",
-   "datum": "2026-11-11T14:18:00Z",
+   "datum": "2026-11-11T18:50:00Z",
    "varianten": {
     "22": {
      "bestand": "billboard",
-     "grootte": 1358384
+     "grootte": 1359152
     },
     "c3": {
      "bestand": "billboard_c3",
-     "grootte": 1476624
+     "grootte": 1477440
     },
     "c3_st7796": {
      "bestand": "billboard_c3_st7796",
-     "grootte": 1476608
+     "grootte": 1477424
     },
     "c3_ili9488": {
      "bestand": "billboard_c3_ili9488",
-     "grootte": 1476624
+     "grootte": 1477440
     },
     "s3": {
      "bestand": "billboard_s3",
-     "grootte": 1341904,
+     "grootte": 1342656,
      "groot": [
       8,
       16
@@ -31,7 +31,7 @@
     },
     "s3_st7796": {
      "bestand": "billboard_s3_st7796",
-     "grootte": 1341904,
+     "grootte": 1342640,
      "groot": [
       8,
       16
@@ -39,7 +39,7 @@
     },
     "s3_ili9488": {
      "bestand": "billboard_s3_ili9488",
-     "grootte": 1341920,
+     "grootte": 1342656,
      "groot": [
       8,
       16
