@@ -48,6 +48,16 @@
    }
   },
   {
+   "versie": "2.8-proef",
+   "datum": "2026-11-11T15:40:00Z",
+   "varianten": {
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1494848
+    }
+   }
+  },
+  {
    "versie": "2.7",
    "datum": "2026-10-31T12:00:00Z",
    "varianten": {
