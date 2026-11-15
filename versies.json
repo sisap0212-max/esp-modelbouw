@@ -1,6 +1,58 @@
 {
- "nieuwste": "2.8",
+ "nieuwste": "2.9",
  "versies": [
+  {
+   "versie": "2.9",
+   "datum": "2026-11-15T13:53:00Z",
+   "varianten": {
+    "22": {
+     "bestand": "billboard",
+     "grootte": 1361312
+    },
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1286752,
+     "partities": "partities_c3.bin",
+     "uitvoering": "Basis"
+    },
+    "c3_st7796": {
+     "bestand": "billboard_c3_st7796",
+     "grootte": 1286736,
+     "partities": "partities_c3.bin",
+     "uitvoering": "Basis"
+    },
+    "c3_ili9488": {
+     "bestand": "billboard_c3_ili9488",
+     "grootte": 1286736,
+     "partities": "partities_c3.bin",
+     "uitvoering": "Basis"
+    },
+    "s3": {
+     "bestand": "billboard_s3",
+     "grootte": 1344848,
+     "groot": [
+      8,
+      16
+     ]
+    },
+    "s3_st7796": {
+     "bestand": "billboard_s3_st7796",
+     "grootte": 1344816,
+     "groot": [
+      8,
+      16
+     ]
+    },
+    "s3_ili9488": {
+     "bestand": "billboard_s3_ili9488",
+     "grootte": 1344848,
+     "groot": [
+      8,
+      16
+     ]
+    }
+   }
+  },
   {
    "versie": "2.8",
    "datum": "2026-11-11T18:50:00Z",
