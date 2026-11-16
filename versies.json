@@ -3,7 +3,7 @@
  "versies": [
   {
    "versie": "2.9",
-   "datum": "2026-11-15T13:53:00Z",
+   "datum": "2026-11-16T11:53:00Z",
    "varianten": {
     "22": {
      "bestand": "billboard",
@@ -11,19 +11,19 @@
     },
     "c3": {
      "bestand": "billboard_c3",
-     "grootte": 1286752,
+     "grootte": 1315840,
      "partities": "partities_c3.bin",
      "uitvoering": "Basis"
     },
     "c3_st7796": {
      "bestand": "billboard_c3_st7796",
-     "grootte": 1286736,
+     "grootte": 1315824,
      "partities": "partities_c3.bin",
      "uitvoering": "Basis"
     },
     "c3_ili9488": {
      "bestand": "billboard_c3_ili9488",
-     "grootte": 1286736,
+     "grootte": 1315824,
      "partities": "partities_c3.bin",
      "uitvoering": "Basis"
     },
