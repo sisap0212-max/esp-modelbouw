@@ -1,6 +1,18 @@
 {
- "nieuwste": "2.9",
+ "nieuwste": "2.11",
  "versies": [
+  {
+   "versie": "2.11",
+   "datum": "2026-11-24T19:00:56Z",
+   "varianten": {
+    "c3": {
+     "bestand": "billboard_c3",
+     "grootte": 1321136,
+     "partities": "partities_c3.bin",
+     "uitvoering": "Basis"
+    }
+   }
+  },
   {
    "versie": "2.9",
    "datum": "2026-11-16T17:40:00Z",
