@@ -1,30 +1,6 @@
 {
- "nieuwste": "2.10",
+ "nieuwste": "2.9",
  "versies": [
-  {
-   "versie": "2.10",
-   "datum": "2026-11-24T17:58:51Z",
-   "varianten": {
-    "c3": {
-     "bestand": "billboard_c3",
-     "grootte": 1322368,
-     "partities": "partities_c3.bin",
-     "uitvoering": "Basis"
-    },
-    "c3_st7796": {
-     "bestand": "billboard_c3_st7796",
-     "grootte": 1322320,
-     "partities": "partities_c3.bin",
-     "uitvoering": "Basis"
-    },
-    "c3_ili9488": {
-     "bestand": "billboard_c3_ili9488",
-     "grootte": 1322320,
-     "partities": "partities_c3.bin",
-     "uitvoering": "Basis"
-    }
-   }
-  },
   {
    "versie": "2.9",
    "datum": "2026-11-16T17:40:00Z",
